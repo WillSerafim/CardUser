@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Card = styled.div `
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  width: 25vw;
+  width: 300px;
   border-radius: 5px;
 `;
 
@@ -53,8 +53,8 @@ export const ExpandMore = styled.button `
 `;
 
 export const Container = styled.div `
-  width: 100vw;
-  height: 100vh;
+  width: 90vw;
+  height: 90vh;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -30,8 +30,8 @@ export const Button = styled.button `
 `;
 
 export const Container = styled.div `
-  width: 100vw;
-  height: 100vh;
+  width: 90vw;
+  height: 90vh;
   display: flex;
   align-items: center;
   justify-content: center;
